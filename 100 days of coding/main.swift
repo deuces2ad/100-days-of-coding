@@ -1,11 +1,6 @@
-//
-//  main.swift
-//  100 days of coding
-//
-//  Created by Abhishek Dhiman on 27/02/24.
-//
+print("result: Abhishek\(#line)")
 
-import Foundation
-
-print("Hello, World!")
-
+//pattern2()
+//pattern1()
+//pattern3()
+pattern4()
