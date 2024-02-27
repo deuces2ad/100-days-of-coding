@@ -1,6 +1,7 @@
-print("result: Abhishek\(#line)")
 
-//pattern2()
+//MARK: - Patterns Complications
+
 //pattern1()
+//pattern2()
 //pattern3()
-pattern4()
+//pattern4()
