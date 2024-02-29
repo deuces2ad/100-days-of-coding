@@ -13,9 +13,12 @@
 //pattern10(for: 5)
 //pattern11(for: 8)
 //pattern12(n: 4)
-pattern13(for: 5)
+//pattern13(for: 5)
 //pattern14(n: 5)
 //pattern15(n: 5)
 //pattern16(n: 5)
+//pattern17(for: 4)
 
-
+//MARK: - Basic Maths
+//extractDigits(from: 7894)
+reverseTheDigit(num: 104000)
