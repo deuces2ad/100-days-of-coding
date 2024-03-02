@@ -21,4 +21,8 @@
 
 //MARK: - Basic Maths
 //extractDigits(from: 7894)
-reverseTheDigit(num: 104000)
+//reverseTheDigit(num: 104000)
+//checkArmstrongNumber(num: 371)
+//printAllDivisors(num: 36)
+//checkPrimeNumber(num: 24)
+printPrimeNumberTill(num: 100)
